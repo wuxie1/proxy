@@ -11,7 +11,8 @@ var domains = {
   "tudou.com": 1, 
   "music.baidu.com": 1, 
   "music.163.com": 1,
-  "douban.fm": 1
+  "netease.com": 1,
+  "douban.fm": 1,
   "letv.com": 1, 
   "hunantv.com": 1, 
   "soku.com": 1, 
