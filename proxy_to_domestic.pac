@@ -1,4 +1,4 @@
-var proxy = "PROXY 118.24.157.22:25;";
+var proxy = "PROXY 118.24.157.22:3128;";
 
 var domains = {
   "acfun.com": 1, 
